@@ -1,7 +1,3 @@
-Hello everyone, 
-I am Mohammad Salhab. I am from Jordan-Irbid, GMT+2 time zone.
-I recently graduated from  Yarmouk University, with Bachelor's Degree in Computer Science, The first programming language I learned was C++, I struggled in it at first but then and after I solved many problems with it, it was very easy to learn and understand other programming languages like Java, JavaScript, and python. I was in an internship for two weeks in writing content about IT topics for children, it was a very fun internship and I learned a lot from it. I am interested in Machine learning, Data Science and Robotics.
-I work on windows 10 with:
-Processor :Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz   1.80 GHz
-RAM : 8.00 GB
-System Type:64-bit operating system, x64-based processor
+As a Back End Developer I design and implement scalable and secure web applications and APIs using Python, and PostgreSQL. I collaborate with the front-end team, the product team, and the clients to deliver high-quality solutions that meet the business and user needs. 
+
+I have a strong background in software engineering, having graduated from Yarmouk University with a degree in Computer Science and completed a software development technical training program with ASAC | LTUC in partnership with CodeFellows. I also have experience as a Full-stack Developer, where I worked on logistics and project management platforms using PHP, React.js, and MySQL. I am passionate about learning new technologies and solving complex problems, and I am always eager to take on new challenges and opportunities.
